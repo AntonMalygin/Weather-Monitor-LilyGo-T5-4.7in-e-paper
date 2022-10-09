@@ -1,0 +1,7 @@
+.pio
+.vscode
+*.xcf
+~*.*
+*~.*
+[sS]cripts/*.bat
+Private.h
