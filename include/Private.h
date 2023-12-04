@@ -12,7 +12,7 @@ const String WiFi_Password      = "tBg0vQu65R";
 // на сайте https://openweathermap.org/
 
 const String OWM_Key            = "60117b2b0b7cf911428a465088c3997c";
-// Санкт-Петербург, Россия
+// Коряжма, Россия
 // Широта
 const String Latitude           = "61.3143";
 // Долгота
